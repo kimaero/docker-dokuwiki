@@ -70,3 +70,4 @@ RUN chown -R nobody:nobody /var/www/lib/
 EXPOSE 80
 VOLUME ["/var/www/data", "/var/www/conf", "/var/www/lib/plugins/", "/var/www/lib/tpl/"]
 CMD /start.sh
+
