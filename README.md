@@ -38,7 +38,7 @@ Volumes won't be deleted if at least one container owns them.
 ### How to restore from backup
 
     #create new dokuwiki container, but don't start it yet
-    docker create -p 8000:80 --name dokuwiki istepanov/dokuwiki:2.0
+    docker create -p 8000:80 --name dokuwiki kimaero/dokuwiki
 
     # create data container for persistency (optional)
     docker run --volumes-from dokuwiki --name dokuwiki-data busybox
