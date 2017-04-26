@@ -1,4 +1,4 @@
-istepanov/dokuwiki
+kimaero/dokuwiki
 ==================
 
 [DokuWiki](https://www.dokuwiki.org/dokuwiki) docker container with preinstalled 
