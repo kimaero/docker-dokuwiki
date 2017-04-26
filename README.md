@@ -4,7 +4,7 @@ kimaero/dokuwiki
 [DokuWiki](https://www.dokuwiki.org/dokuwiki) docker container with preinstalled 
 NGINX and Supervisord.
 
-Configuration are similar to [istepanov/dokuwiki](https://hub.docker.com/r/istepanov/dokuwiki/), 
+Configuration is similar to [istepanov/dokuwiki](https://hub.docker.com/r/istepanov/dokuwiki/), 
 but with bootstrap3 template and a number of useful plugins preinstalled.
 
 ### How to run
